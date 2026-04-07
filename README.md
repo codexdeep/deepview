@@ -11,7 +11,7 @@
 - Most traders use: 10+ browser tabs, multiple charting tools, and several data websites.
 - **DeepView solves this by creating a single unified trading workspace.**
 
-## With DeepView you can:
+## With DeepView, you can:
 
 * ✔ Monitor multiple markets simultaneously
 * ✔ Compare charts side-by-side
